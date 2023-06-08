@@ -1,0 +1,9 @@
+Nome           Esp. utilizado      Porcentagem
+-----------------------------------------------
+Marcos          128087Kb            21.60%
+Mateus          76890Kb             12.97%
+Maria           70098Kb             11.82%
+Mirosmar        87789Kb             14.81%
+Miranda         30098Kb             5.08%
+Merindomar      200000Kb            33.73%
+-----------------------------------------------

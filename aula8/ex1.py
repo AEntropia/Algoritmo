@@ -1,3 +1,4 @@
-d = input('Digite uma data: ')
-da = d.split('/')
-print(f'{da[2]}/{da[1]}/{da[0]}')
+n = input("Digite seu primeiro: ")
+sn = input("Digite seu sobrenome: ")
+nc = n + " " + sn
+print(f'Seu nome completo é: {nc}')
